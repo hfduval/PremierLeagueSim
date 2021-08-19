@@ -32,7 +32,8 @@ I recommend using any C++ compiler to launch the program. It needs to have acces
 Additionally, there are 2 necessary inputs. The first one is an integer between 1-20 that the user inputs in order to select a club
 to support. The second input is an integer between 1-34 that allows the user to select a specific matchweek to take a look at.
 
-*PremierLeague
+* PremierLeagueSim.cc contains the main() function
+* Hfduval.h contains all important <include> headers
 
 # Status
 
