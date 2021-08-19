@@ -33,7 +33,7 @@ Additionally, there are 2 necessary inputs. The first one is an integer between 
 to support. The second input is an integer between 1-34 that allows the user to select a specific matchweek to take a look at.
 
 * PremierLeagueSim.cc contains the main() function
-* Hfduval.h contains all important <include> headers
+* Hfduval.h contains all important include libraries
 
 # Status
 
