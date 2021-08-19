@@ -1,4 +1,4 @@
-#include "hfduval.h"
+#include "Hfduval.h"
 
 #include "Tstructs.h"
 
