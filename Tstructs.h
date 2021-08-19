@@ -8,7 +8,8 @@
 #pragma once
 #ifndef TSTRUCTS_H
 #define TSTRUCTS_H
-#include "hfduval.h"
+
+#include "Hfduval.h"
 
 /**
 	Struct that contains the specific data for this club, including
