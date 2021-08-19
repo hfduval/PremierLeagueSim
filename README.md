@@ -5,7 +5,7 @@ Simple simulation console app created with C++
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Setup] (#setup)
+* [Setup](#setup)
 
 # Introduction
 
