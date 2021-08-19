@@ -8,7 +8,7 @@
 #pragma once
 #ifndef TEAM_H
 #define TEAM_H
-#include "hfduval.h"
+#include "Hfduval.h"
 
 /**
 	Team base class that holds data such as a Team's strength, name, points, position, and a vector of 
