@@ -1,10 +1,12 @@
 /**
-	@file Team.h*
+	@file Hfduval.h
 	@brief Header File including important includes, and a global class & struct
 	@author Harrison Duval
 	@version 1.1 8/10/21
 */
 
+#ifndef HFDUVAL_H
+#define HFDUVAL_H
 #pragma once
 
 #include <iostream>
@@ -59,3 +61,4 @@ struct userPrompt {
 	string manager;
 	userPrompt(string _club, string _manager) : club(_club), manager(_manager) {}//constructor
 };
+#endif //HFDUVAL_H
