@@ -1,0 +1,20 @@
+Arsenal,Mikel Arteta
+Aston Villa,Dean Smith
+Brentford,Thomas Frank
+Brighton,Graham Potter
+Burnley,Sean Dyche
+Chelsea,Thomas Tuchel
+Crystal Palace,Patrick Vieira
+Everton,Rafael Benitez
+Leeds United,Marcelo Bielsa
+Leicester City,Brendan Rodgers
+Liverpool,Jurgen Klopp
+Man City,Pep Guardiola
+Man United,Ole Gunnar Solskjaer
+Newcastle,Steve Bruce
+Norwich City,Daniel Farke
+Southampton,Ralph Hasenhuttl
+Tottenham,Nuno Espirito Santo
+Watford,Francisco Javier Munoz Llompart
+West Ham,David Moyes
+Wolves,Bruno Lage
