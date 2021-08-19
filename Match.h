@@ -8,7 +8,7 @@
 #pragma once
 #ifndef MATCH_H
 #define MATCH_H
-#include "hfduval.h"
+#include "Hfduval.h"
 #include "Team.h" 
 #include "Club.h"
 
