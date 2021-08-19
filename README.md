@@ -24,13 +24,6 @@ enjoy it!
 *Microsoft Visual Studio 2019
 *C++14
 
-# Status
-
----
-
-This project is complete for the moment as I am going back to school for the semester, but further improvements
-will be implemented in the future.
-
 # Setup
 
 ---
@@ -38,3 +31,12 @@ will be implemented in the future.
 I recommend using any C++ compiler to launch the program. It needs to have access all the header files, cpp files and the text file.
 Additionally, there are 2 necessary inputs. The first one is an integer between 1-20 that the user inputs in order to select a club
 to support. The second input is an integer between 1-34 that allows the user to select a specific matchweek to take a look at.
+
+*PremierLeague
+
+# Status
+
+---
+
+This project is complete for the moment as I am going back to school for the semester, but further improvements
+will be implemented in the future.
