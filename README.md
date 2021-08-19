@@ -21,8 +21,8 @@ enjoy it!
 
 ---
 
-*Microsoft Visual Studio 2019
-*C++14
+* Microsoft Visual Studio 2019
+* C++14
 
 # Setup
 
